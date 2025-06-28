@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:news/common/assets_manage.dart';
 import 'package:news/common/colors.dart';
 import '../../common/theme.dart';
-import 'models/category_model.dart';
+import '../data/category_model.dart';
 import 'category_wedgit.dart';
 
 class Categories extends StatelessWidget {

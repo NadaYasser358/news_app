@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:news/common/theme.dart';
-import 'package:news/screens/catigories/models/category_model.dart';
+import 'package:news/sources/data/category_model.dart';
 
 class CategoryWidget extends StatelessWidget {
   CategoryWidget({super.key,required this.index,required this.categoryModel});
