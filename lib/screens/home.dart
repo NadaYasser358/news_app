@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:news/screens/catigories/categories.dart';
-import 'package:news/screens/catigories/category_details.dart';
-import 'package:news/screens/catigories/models/category_model.dart';
+import 'package:news/sources/view/categories.dart';
+import 'package:news/sources/view/category_details.dart';
+import 'package:news/sources/data/category_model.dart';
 import 'package:news/screens/news_search_delegate.dart';
 import 'package:news/screens/settings/settings.dart';
 

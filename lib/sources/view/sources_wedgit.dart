@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:news/screens/catigories/models/sources_model.dart';
+import 'package:news/sources/data/sources_model.dart';
 import 'package:news/screens/catigories/wedgits/newsList.dart';
 
 
